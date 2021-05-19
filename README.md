@@ -1,4 +1,4 @@
-## 👋
+### 👋
 
 I'm Jae Wu, currently a highschool student looking forward to studying at UBC Vancouver. I'm passionate about creating and the financial markets.
 
