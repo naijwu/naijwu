@@ -21,5 +21,6 @@ HI, I'm Jae Wu. Currently, I'm a highschool student looking forward to studying 
 ![nodejs_plain_logo_icon_146409](https://user-images.githubusercontent.com/26179641/118853545-b95ee880-b888-11eb-8dc0-512bc1a30f13.png)
 ![postgresql_plain_logo_icon_146389](https://user-images.githubusercontent.com/26179641/118853720-eca17780-b888-11eb-814c-b0d405b8303a.png)
 ![figma_logo_icon_170157](https://user-images.githubusercontent.com/26179641/118853895-1ce91600-b889-11eb-86c3-e0b659c89baa.png)
+![file_type_firebase_icon_130606](https://user-images.githubusercontent.com/26179641/118854894-0ee7c500-b88a-11eb-8be2-866d5f94c668.png)
 
 Cheers!
