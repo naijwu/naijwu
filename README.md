@@ -15,7 +15,7 @@ Hey, I'm Jae Wu. I'm passionate about creating (anything) and the markets (all o
 * API ✨Integration Layers✨
 * Microservices 🤏, Kubernetes
 
-#### Technologies I've worked with
+#### Technologies I've worked with:
 
 ![file_type_html_icon_130541](https://user-images.githubusercontent.com/26179641/118920956-2bb4e480-b8ec-11eb-8d7b-2798e8a0bb5e.png)
 ![file_type_css_icon_130661 (1)](https://user-images.githubusercontent.com/26179641/118920963-2e173e80-b8ec-11eb-871c-e7a64ce2d09c.png)
