@@ -1,6 +1,6 @@
 ### 👋
 
-HI, I'm Jae Wu. Currently, I'm a highschool student. I'm passionate about creating (anything powered by the movement of electrons) and markets (all of them). This GitHub repo presents what is technological in my life.
+I'm Jae Wu; passionate about creating (anything powered by the movement of electrons) and markets (all of them).
 
 #### What I'm working on:
 * A couple websites on Webflow 💻
@@ -12,7 +12,7 @@ HI, I'm Jae Wu. Currently, I'm a highschool student. I'm passionate about creati
 * A BEP-20 token explorer mobile app (charting + transactions from bscscan) 📈
 * A simple net-worth tracking app for iOS 💸
 
-#### Subjects I want to explore/dive deeper into
+#### Topics I want to explore/dive deeper into:
 * Native iOS App Development 🍎
 * DApp/Web3 Development 📄
 * API ✨Integration Layers✨
