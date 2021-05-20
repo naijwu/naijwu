@@ -1,14 +1,16 @@
 ### 👋
 
-HI, I'm Jae Wu. Currently, I'm a highschool student. I'm passionate about creating (anything powered by the movement of electrons) and markets (all of them). 
+HI, I'm Jae Wu. Currently, I'm a highschool student. I'm passionate about creating (anything powered by the movement of electrons) and markets (all of them). This GitHub repo presents what is technological in my life.
 
-### What I'm working on:
+#### What I'm working on:
+* A couple websites on Webflow 💻
 * OpenGavel, a free chairing program for MUNs 📃
-* An invoice, job, and customer management web application 📁
+* A super-lean versioned CMS/ERM web app 📁
 * A planning web + mobile app with a friend 📅
 
-### Potential future projects:
-* A BEP-20 coin explorer app (charting + transactions from bscscan) 📈
+#### Potential future projects:
+* A BEP-20 token explorer mobile app (charting + transactions from bscscan) 📈
+* A simple net-worth tracking app for iOS 💸
 
 #### Subjects I want to explore
 * Native iOS App Development 🍎
