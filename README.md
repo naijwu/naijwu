@@ -1,6 +1,6 @@
 ### 👋
 
-I'm Jae Wu; passionate about creating (anything powered by the movement of electrons) and markets (all of them).
+Hey, I'm Jae Wu. I'm passionate about creating (anything powered by the movement of electrons) and markets (all of them).
 
 #### What I'm working on:
 * A couple websites on Webflow 💻
