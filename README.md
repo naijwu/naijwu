@@ -20,8 +20,8 @@ Hey, I'm Jae Wu. I'm passionate about creating (anything powered by the movement
 
 #### Technologies I've worked with
 
-![5352-html5_102567](https://user-images.githubusercontent.com/26179641/118853247-684ef480-b888-11eb-900c-17a00e7dbf78.png)
-![file_type_css_icon_130661](https://user-images.githubusercontent.com/26179641/118853456-a3512800-b888-11eb-8a2b-9f201e9e4953.png)
+![file_type_html_icon_130541](https://user-images.githubusercontent.com/26179641/118920956-2bb4e480-b8ec-11eb-8d7b-2798e8a0bb5e.png)
+![file_type_css_icon_130661 (1)](https://user-images.githubusercontent.com/26179641/118920963-2e173e80-b8ec-11eb-871c-e7a64ce2d09c.png)
 ![php_plain_logo_icon_146397](https://user-images.githubusercontent.com/26179641/118853659-d72c4d80-b888-11eb-84dc-e76f5450dd0d.png)
 ![mysql_original_wordmark_logo_icon_146417](https://user-images.githubusercontent.com/26179641/118855147-540bf700-b88a-11eb-8336-0d6f3cc6ae7c.png)
 ![javascript_plain_logo_icon_146454](https://user-images.githubusercontent.com/26179641/118853116-42c1eb00-b888-11eb-8387-d42a26e65756.png)
