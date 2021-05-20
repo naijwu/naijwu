@@ -7,10 +7,7 @@ Hey, I'm Jae Wu. I'm passionate about creating (anything) and the markets (all o
 * OpenGavel, a free chairing program for MUNs 📃
 * A super-lean versioned CMS/ERM web app 📁
 * A planning web + mobile app with a friend 📅
-
-#### Potential future projects:
 * A BEP-20 token explorer mobile app (charting + transactions from bscscan) 📈
-* A simple net-worth tracking app for iOS 💸
 
 #### Topics I want to explore/dive deeper into:
 * Native iOS App Development 🍎
