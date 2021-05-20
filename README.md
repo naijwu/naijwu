@@ -2,14 +2,21 @@
 
 HI, I'm Jae Wu. Currently, I'm a highschool student. I'm passionate about creating (anything powered by the movement of electrons) and markets (all of them). 
 
-#### What I want to explore
+### What I'm working on:
+* OpenGavel, a free chairing program for MUNs 📃
+* An invoice, job, and customer management web application 📁
+* A planning web + mobile app with a friend 📅
+
+### Potential future projects:
+* A BEP-20 coin explorer app (charting + transactions from bscscan) 📈
+
+#### Subjects I want to explore
 * Native iOS App Development 🍎
 * DApp/Web3 Development 📄
 
-#### What I want to dive deeper into
+#### Topics I want to dive deeper into
 * API ✨Integration Layers✨
 * Microservices 🤏, Kubernetes
-* Docker Containers
 
 #### Technologies I've worked with
 
