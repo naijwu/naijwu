@@ -12,11 +12,9 @@ HI, I'm Jae Wu. Currently, I'm a highschool student. I'm passionate about creati
 * A BEP-20 token explorer mobile app (charting + transactions from bscscan) 📈
 * A simple net-worth tracking app for iOS 💸
 
-#### Subjects I want to explore
+#### Subjects I want to explore/dive deeper into
 * Native iOS App Development 🍎
 * DApp/Web3 Development 📄
-
-#### Topics I want to dive deeper into
 * API ✨Integration Layers✨
 * Microservices 🤏, Kubernetes
 
