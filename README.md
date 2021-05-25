@@ -5,7 +5,7 @@ Hey, I'm Jae Wu. I'm passionate about creating (anything) and the markets (all).
 #### What I'm working on:
 * A couple websites on Webflow 💻
 * OpenGavel, a free chairing program for MUNs 📃
-* A super-lean versioned CMS/ERM web app 📁
+* A modular CMS/ERP web app 📁
 * A planning web + mobile app with a friend 📅
 * A BEP-20 token explorer mobile app (charting + transactions from bscscan) 📈
 
