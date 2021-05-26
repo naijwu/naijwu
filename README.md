@@ -1,6 +1,6 @@
 ### 👋
 
-Hey, I'm Jae Wu. I'm passionate about creating (anything) and the markets (all). Cheers!
+Hey, I'm Jae Wu. I'm passionate about creating (anything) and the financial markets. Cheers!
 
 #### What I'm working on:
 * A couple websites on Webflow 💻
