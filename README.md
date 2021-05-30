@@ -6,7 +6,7 @@ Hey, I'm Jae Wu. I'm passionate about creating (anything) and the financial mark
 * A couple websites on Webflow 💻
 * OpenGavel, a free chairing program for MUNs 📃
 * A modular CMS/ERP web app 📁
-* A planning web + mobile app with a friend 📅
+* A writing habit-forming web app ✏
 * A BEP-20 token explorer mobile app (charting + transactions from bscscan) 📈
 
 #### Topics I want to explore/dive deeper into:
