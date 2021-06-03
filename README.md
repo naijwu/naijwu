@@ -12,7 +12,6 @@ Hey, I'm Jae Wu. I'm passionate about creating (anything) and the financial mark
 #### Topics I want to explore/dive deeper into:
 * Native iOS App Development 🍎
 * DApp/Web3 Development 📄
-* API ✨Integration Layers✨
 * Microservices 🤏, Kubernetes
 
 #### Technologies I've worked with:
