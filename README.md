@@ -3,11 +3,10 @@
 Hey, I'm Jae Wu. I'm passionate about creating (anything) and the financial markets. Cheers!
 
 #### What I'm working on:
-* A couple websites on Webflow 💻
-* OpenGavel, a free chairing program for MUNs ([opengavel.app](https://opengavel.app)) 📃
+* A website on Webflow 💻
 * A modular CMS/ERP web app 📁
 * A writing habit-forming web app ([wordseveryday.net](https://wordseveryday.net)) ✏
-* A BEP-20 token explorer mobile app (charting + transactions from bscscan) 📈
+* OpenGavel, a free chairing program for MUNs ([opengavel.app](https://opengavel.app)) 📃
 
 #### Topics I want to explore/dive deeper into:
 * Native iOS App Development 🍎
