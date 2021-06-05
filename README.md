@@ -8,7 +8,7 @@ Hey, I'm Jae Wu. I'm passionate about creating (anything) and the financial mark
 * A writing habit-forming web app ([wordseveryday.net](https://wordseveryday.net)) ✏
 * OpenGavel, a free chairing program for MUNs ([opengavel.app](https://opengavel.app)) 📃
 
-#### Topics I want to explore/dive deeper into:
+#### Topics I want to explore further:
 * Native iOS App Development 🍎
 * DApp/Web3 Development 📄
 * Microservices 🤏, Kubernetes
