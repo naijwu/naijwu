@@ -3,7 +3,6 @@
 Hey, I'm Jae Wu. I'm passionate about creating (anything) and the financial markets. Cheers!
 
 #### What I'm working on:
-* A website on Webflow 💻
 * A modular CMS/ERP web app 📁
 * A writing habit-forming web app ([wordseveryday.net](https://wordseveryday.net)) ✏
 * OpenGavel, a free chairing program for MUNs ([opengavel.app](https://opengavel.app)) 📃
