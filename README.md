@@ -8,13 +8,13 @@ Hey, I'm Jae Wu. I'm passionate about creating (anything) and the financial mark
 * (_paused_) OpenGavel, a free chairing program for MUNs ([opengavel.app](https://opengavel.app)) 📃
 
 #### Topics I want to explore further:
-* Native (& non-native, React Native) App Dev 🍎
+* Native (& more non-native: React Native) App Dev 🍎
 * DApp/Web3 Development 📄
 * Microservices 🤏, Kubernetes, general Sys Design
 
 #### Repository of projects by technology used:
 * ReactJS -> Most projects
-* React Native -> networthtrack
+* React Native -> networthtrack, quantized (_unfinished_)
 * HTML/CSS/JS -> Most PacificMUN repos
 
 #### Technologies I've worked with:
