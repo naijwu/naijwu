@@ -12,7 +12,7 @@ Hey, I'm Jae Wu. I'm passionate about creating (anything) and the financial mark
 * DApp/Web3 Development 📄
 * Microservices 🤏, Kubernetes, general Sys Design
 
-#### Repository of projects by technology used:
+#### Project repositories by technology used:
 * ReactJS -> Most projects
 * React Native -> networthtrack, quantized (_unfinished_)
 * HTML/CSS/JS & PHP -> Most PacificMUN repos
