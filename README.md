@@ -2,8 +2,8 @@
 
 Hey, I'm Jae Wu. I'm passionate about creating (anything) and the financial markets. Cheers!
 
-#### What I'm working on:
-* An NFT exchange (for learning) 📁
+#### What I'm building:
+* BEP-20 token price alert service 📁
 * (_paused_) A writing habit-forming web app ([wordseveryday.net](https://wordseveryday.net)) ✏
 * (_paused_) OpenGavel, a free chairing program for MUNs ([opengavel.app](https://opengavel.app)) 📃
 
