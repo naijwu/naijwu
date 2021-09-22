@@ -15,7 +15,7 @@ Hey, I'm Jae Wu. I'm passionate about creating (anything) and the financial mark
 #### Repository of projects by technology used:
 * ReactJS -> Most projects
 * React Native -> networthtrack, quantized (_unfinished_)
-* HTML/CSS/JS -> Most PacificMUN repos
+* HTML/CSS/JS & PHP -> Most PacificMUN repos
 
 #### Technologies I've worked with:
 
