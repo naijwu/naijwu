@@ -4,7 +4,7 @@ Hey, I'm Jae Wu. I'm passionate about creating (anything) and the financial mark
 
 #### Currently working on:
 * nwPlus & BizTech tickets
-* internetspace.co update
+* a big internetspace.co update (time to procrastinate exams again)
 
 #### Past projects:
 * A linktr.ee clone ([internetspace.co](https://internetspace.co)) 🤡
