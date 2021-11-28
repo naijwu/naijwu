@@ -2,14 +2,17 @@
 
 Hey, I'm Jae Wu. I'm passionate about creating (anything) and the financial markets. Cheers!
 
-#### What I'm building:
-* BEP-20 token price alert service 📁
-* (_paused_) A writing habit-forming web app ([wordseveryday.net](https://wordseveryday.net)) ✏
-* (_paused_) OpenGavel, a free chairing program for MUNs ([opengavel.app](https://opengavel.app)) 📃
+#### Currently working on:
+* nwPlus & BizTech tickets
+* internetspace.co update
+
+#### Past projects:
+* A linktr.ee clone ([internetspace.co](https://internetspace.co)) 🤡
+* A writing habit-forming web app ([wordseveryday.net](https://wordseveryday.net)) ✏
+* OpenGavel, a free chairing program for MUNs ([opengavel.app](https://opengavel.app)) 📃
 
 #### Topics I want to explore further:
-* Native (& more non-native: React Native) App Dev 🍎
-* DApp/Web3 Development 📄
+* Web3 Development 📄
 * Microservices 🤏, Kubernetes, general Sys Design
 
 #### Project repositories by technology used:
