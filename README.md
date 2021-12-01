@@ -13,6 +13,7 @@ Hey, I'm Jae Wu. I'm passionate about creating (anything) and the financial mark
 
 #### Topics I want to explore further:
 * Web3 Development 📄
+* Fintech/Algo trading
 
 #### Project repositories by technology used:
 * ReactJS -> Most projects
