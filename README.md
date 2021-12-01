@@ -4,7 +4,7 @@ Hey, I'm Jae Wu. I'm passionate about creating (anything) and the financial mark
 
 #### Currently working on:
 * nwPlus & BizTech tickets
-* a big internetspace.co update (time to procrastinate exams again)
+* stayin afloat dawg...
 
 #### Past projects:
 * A linktr.ee clone ([internetspace.co](https://internetspace.co)) 🤡
@@ -13,7 +13,6 @@ Hey, I'm Jae Wu. I'm passionate about creating (anything) and the financial mark
 
 #### Topics I want to explore further:
 * Web3 Development 📄
-* Microservices 🤏, Kubernetes, general Sys Design
 
 #### Project repositories by technology used:
 * ReactJS -> Most projects
