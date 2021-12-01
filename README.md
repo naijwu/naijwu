@@ -1,10 +1,10 @@
 ### 👋
 
-Hey, I'm Jae Wu. I'm passionate about creating (anything) and the financial markets. Cheers!
+Hey, I'm Jae Wu. I'm passionate about creating (anything, but usually in the form of building internet projects) and the financial markets. Cheers!
 
 #### Currently working on:
-* nwPlus & BizTech tickets
-* stayin afloat dawg...
+* nwPlus & BizTech tickets 🤩
+* stayin afloat dawg... 🙂
 
 #### Past projects:
 * A linktr.ee clone ([internetspace.co](https://internetspace.co)) 🤡
@@ -13,7 +13,7 @@ Hey, I'm Jae Wu. I'm passionate about creating (anything) and the financial mark
 
 #### Topics I want to explore further:
 * Web3 Development 📄
-* Fintech/Algo trading
+* Fintech/Algo trading 💹
 
 #### Project repositories by technology used:
 * ReactJS -> Most projects
