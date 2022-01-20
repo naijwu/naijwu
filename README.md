@@ -3,8 +3,8 @@
 Hey, I'm Jae Wu. I'm passionate about creating (anything, but usually in the form of building projects) and the financial markets. Cheers!
 
 #### Currently working on:
+* Building in Web3 📄
 * nwPlus & BizTech tickets 🤩
-* stayin afloat dawg... 🙂
 
 #### Past projects:
 * A linktr.ee clone ([internetspace.co](https://internetspace.co)) 🤡
@@ -12,7 +12,6 @@ Hey, I'm Jae Wu. I'm passionate about creating (anything, but usually in the for
 * OpenGavel, a free chairing program for MUNs ([opengavel.app](https://opengavel.app)) 📃
 
 #### Topics I want to explore further:
-* Web3 Development 📄
 * Fintech/Algo trading 💹
 
 #### Project repositories by technology used:
