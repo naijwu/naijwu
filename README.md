@@ -1,6 +1,6 @@
 ### 👋
 
-Hey, I'm Jae Wu. I'm passionate about creating (anything, but usually in the form of building projects) and the financial markets. Cheers!
+Hey, I'm Jae Wu. I like creating (anything, but usually in the form of building projects) and the financial markets. Cheers!
 
 #### Currently working on:
 * Building in Web3 📄
