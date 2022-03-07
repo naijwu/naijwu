@@ -3,8 +3,8 @@
 Hey, I'm Jae Wu. I like creating (anything, but usually in the form of building projects) and the financial markets. Cheers!
 
 #### Currently working on:
-* Building in Web3 📄
-* nwPlus & BizTech tickets 🤩
+* mainstream.so 👛
+* cohear.io 🤩
 
 #### Past projects:
 * A linktr.ee clone ([internetspace.co](https://internetspace.co)) 🤡
