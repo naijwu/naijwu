@@ -11,9 +11,6 @@ Hey, I'm Jae Wu. I like creating (anything, but usually in the form of building 
 * A writing habit-forming web app ([wordseveryday.net](https://wordseveryday.net)) ✏
 * OpenGavel, a free chairing program for MUNs ([opengavel.app](https://opengavel.app)) 📃
 
-#### Topics I want to explore further:
-* Fintech/Algo trading 💹
-
 #### Project repositories by technology used:
 * ReactJS -> Most projects
 * React Native -> networthtrack, quantized (_unfinished_)
