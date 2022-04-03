@@ -3,7 +3,7 @@
 Hey, I'm Jae Wu. I like creating (anything, but usually in the form of building projects) and the financial markets. Cheers!
 
 #### Currently working on:
-* mainstream.so 👛
+* mainstream.so 🤠
 * cohear.io 🤩
 
 #### Past projects:
