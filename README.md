@@ -1,7 +1,5 @@
 ### 👋
 
-Hey, I'm Jae Wu. I like creating (anything, but usually in the form of building projects) and the financial markets. Cheers!
-
 #### Currently building [mainstream.so](https://mainstream.so)
 
 #### Past projects:
