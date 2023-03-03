@@ -30,4 +30,6 @@ Hey, I'm Jae Wu. I like creating (anything, but usually in the form of building 
 ![heroku_logo_icon_168126](https://user-images.githubusercontent.com/26179641/118855132-51110680-b88a-11eb-9ab9-406ca1478c05.png)
 ![webflow_logo_icon_169218](https://user-images.githubusercontent.com/26179641/118920271-f5c33080-b8ea-11eb-9856-706be192c61a.png)
 ![java](https://user-images.githubusercontent.com/26179641/222788559-144e9eb2-16c3-423a-92a7-53a3fe48ae7c.png)
+![cpp](https://user-images.githubusercontent.com/26179641/222788707-2d8dbff3-67eb-42d0-9434-74fa1f481d76.png)
+
 
