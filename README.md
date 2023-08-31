@@ -1,6 +1,6 @@
 ### 👋
 
-#### Currently building [mainstream.so](https://mainstream.so)
+#### Currently building [mainstream.so](https://mainstream.so): [beta.mainstream.so](https://beta.mainstream.so) and [getpager.xyz](https://getpager.xyz)
 
 #### Past projects:
 * A linktr.ee clone ([internetspace.co](https://internetspace.co)) 🤡
