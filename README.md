@@ -1,3 +1,3 @@
 ### 👋
 
-#### Get to know me at [jaewuchun.com](https://jaewuchun.com).
+#### [jaewuchun.com](https://jaewuchun.com)
